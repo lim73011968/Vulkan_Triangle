@@ -1,0 +1,21 @@
+# ninja log v7
+1	40	8003792289828045	glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	fbd60014e2e5b003
+1	40	8003792289828045	C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-mkdir	fbd60014e2e5b003
+40	6050	8003792349927062	glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	4e3a3286117f7d77
+40	6050	8003792349927062	C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-download	4e3a3286117f7d77
+6050	7331	8003792349977076	glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	38058fa54c91aea6
+6050	7331	8003792349977076	C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-update	38058fa54c91aea6
+7331	7371	8003792363136240	glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	6edee1b2611e6a2
+7331	7371	8003792363136240	C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-patch	6edee1b2611e6a2
+7371	7407	8003792363496265	glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	e2195896ff30a264
+7371	7407	8003792363496265	C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-configure	e2195896ff30a264
+7407	7443	8003792363855296	glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	e927f5608f94c222
+7407	7443	8003792363855296	C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-build	e927f5608f94c222
+7443	7479	8003792364215297	glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	e424aed0de1572e1
+7443	7479	8003792364215297	C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-install	e424aed0de1572e1
+7479	7516	8003792364582729	glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	5752627a6f2235d3
+7479	7516	8003792364582729	C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-test	5752627a6f2235d3
+7516	7567	8003792365097788	CMakeFiles/glm-populate-complete	859335bf4fe257b4
+7516	7567	8003792365097788	glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	859335bf4fe257b4
+7516	7567	8003792365097788	C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glm-subbuild/CMakeFiles/glm-populate-complete	859335bf4fe257b4
+7516	7567	8003792365097788	C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glm-subbuild/glm-populate-prefix/src/glm-populate-stamp/glm-populate-done	859335bf4fe257b4

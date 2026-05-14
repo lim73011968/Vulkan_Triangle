@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/WorkingFile/Clang/Vulkan/test_vulkan/build/cmake_install.cmake",
+		"C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glfw-build/cmake_install.cmake",
+		"C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glfw-build/src/cmake_install.cmake",
+		"C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glfw-build/examples/cmake_install.cmake",
+		"C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glfw-build/tests/cmake_install.cmake",
+		"C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glm-build/cmake_install.cmake",
+		"C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glm-build/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/WorkingFile/Clang/Vulkan/test_vulkan/build/_deps/glfw-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
